@@ -32,10 +32,10 @@ This project automatically syncs Super League Kerala match data with Google Cale
 
 ## Security & Privacy
 
-- This is a read-only subscription to _this_ Google Calendar - I cannot who (or if, even) anyone is using this.
+- This is a read-only subscription to _this_ Google Calendar - I cannot see who (or if, even) anyone is using this.
 - You're only subscribing to view events, not granting any permissions to your account.
 
-## Usage
+## Code Usage
 
 ```bash
 # Sync only upcoming matches (default)
